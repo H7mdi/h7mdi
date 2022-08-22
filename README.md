@@ -1,4 +1,4 @@
-<img src="https://github.com/barbecue/barbecue/blob/master/media/banner.png?raw=true">
+<img src="https://i.hizliresim.com/gu45g3p.png">
 <p align="center">
    <a href="https://discord.com/users/298888568279924746" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://open.spotify.com/user/31uwqzmsetozgixmpbj62362hdjm" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
