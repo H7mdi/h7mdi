@@ -7,6 +7,6 @@
 </p>
 <div align="center">
    <a href="https://discord.com/users/892412357559603270" target="_blank">
-      <img src="https://lanyard.cnrad.dev/api/892412357559603270">
+      <img src="https://lanyard.cnrad.dev/api/892412357559603270 idleMessage=:yourmessage"> 
    </a>
 </div>
